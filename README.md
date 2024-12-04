@@ -1,4 +1,4 @@
-# About Sprunki Retake -  Explore the Latest mod of Sprunki Games, Play Sprunki Retake Game online free!
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/6275374a-0330-4734-87ff-db92ec128fc2"># About Sprunki Retake -  Explore the Latest mod of Sprunki Games, Play Sprunki Retake Game online free!
 
 Hey there! I'm Hoodee, a passionate fan with a love for sprunki retake gaming and web development.
 
@@ -20,9 +20,14 @@ New Animations: Fresh visual elements in the style of Sprunki Incredibox
 
 If you're interested in trying out Sprunki Retake, you can find it here: https://sprunkiretake.net/
 
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/2b8bb398-cf9b-4b39-b1f5-a01671622e1e">
+
+
 ## What is Sprunki Retake?
 
 Sprunki Retake is the latest addition to the Sprunki game family, following the success of Sprunki Incredibox. Like the original Sprunki Incredibox mod, our version focuses on creating amazing music through an intuitive interface while adding new elements to enhance your music-making experience.
+
+https://youtu.be/QO3guzD6j4A
 
 **The Evolution of Sprunki**
 Sprunki Incredibox: The original mod that started it all
