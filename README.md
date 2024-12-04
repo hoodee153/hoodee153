@@ -1,4 +1,6 @@
-<img width="1066" alt="image" src="https://github.com/user-attachments/assets/6275374a-0330-4734-87ff-db92ec128fc2"># About Sprunki Retake -  Explore the Latest mod of Sprunki Games, Play Sprunki Retake Game online free!
+# About Sprunki Retake -  Explore the Latest mod of Sprunki Games, Play Sprunki Retake Game online free!
+
+<img width="1066" alt="image" src="https://github.com/user-attachments/assets/2b8bb398-cf9b-4b39-b1f5-a01671622e1e">
 
 Hey there! I'm Hoodee, a passionate fan with a love for sprunki retake gaming and web development.
 
@@ -20,7 +22,7 @@ New Animations: Fresh visual elements in the style of Sprunki Incredibox
 
 If you're interested in trying out Sprunki Retake, you can find it here: https://sprunkiretake.net/
 
-<img width="1066" alt="image" src="https://github.com/user-attachments/assets/2b8bb398-cf9b-4b39-b1f5-a01671622e1e">
+
 
 
 ## What is Sprunki Retake?
